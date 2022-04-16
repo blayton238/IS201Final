@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(232, 232, 255); 
+}
+
+a {
+    color: white;
+}
+
+.custom-1:hover {
+    color: green !important;
+}
+
+.custom-2:hover {
+    color: red !important;
+}
+
+.custom-3:hover {
+    color: purple !important;
+}
+
+.custom-4:hover {
+    color: orange !important;
+}
+
+p:hover {
+ font-family: 'Courier New', Courier, monospace !important;
+ font-size: medium !important;
+}
+
